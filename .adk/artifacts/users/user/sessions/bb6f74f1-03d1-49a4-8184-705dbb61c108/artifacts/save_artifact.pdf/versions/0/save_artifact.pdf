@@ -1,0 +1,158 @@
+Microsoft Excel Shortcuts Mastery - be10x
+
+Page 2:
+Shortcut Key - Function
+Ctrl+A - Select all contents of a worksheet
+Ctrl+B - Bold all cells in the highlighted section
+Ctrl+C - Copy all cells in the highlighted section
+Ctrl+D - Fill the cell(s) down from the one(s) above
+Ctrl+F - Open the Find and Replace dialog box
+Ctrl+G - Open the Go To dialog box
+Ctrl+H - Open the Find and Replace dialog box
+Ctrl+I - Italic all cells in the highlighted section
+Ctrl+K - Insert a hyperlink
+Ctrl+L - Open the Create Table dialog box
+Ctrl+N - Create a new workbook
+Ctrl+O - Open a workbook
+Ctrl+P - Open the Print dialog box
+Ctrl+R - Fill the cell(s) to the right of the selected cell(s) with the content of the leftmost cell
+Ctrl+S - Save the active workbook
+Ctrl+T - Open the Create Table dialog box
+Ctrl+U - Underline all cells in the highlighted section
+
+Page 3:
+Shortcut Key - Function
+Ctrl+V - Paste the contents from the clipboard
+Ctrl+W - Close the active workbook
+Ctrl+X - Cut all cells in the highlighted section
+Ctrl+Y - Repeat the last action
+Ctrl+Z - Undo the last action
+Ctrl+1 - Open the Format Cells dialog box
+Ctrl+5 - Apply or remove strikethrough formatting
+Ctrl+6 - Show or hide objects
+Ctrl+Arrow key - Move to the edge of next data region
+Ctrl+Shift+Arrow Key - Extend the selection to the last nonblank cell
+Ctrl+Spacebar - Select entire column
+Shift+Spacebar - Select entire row
+Ctrl+Page Up/Down - Move to the previous/next worksheet
+Ctrl+Home - Move to the beginning of a worksheet
+Ctrl+End - Move to the end of a worksheet
+F2 - Edit the active cell
+F4 - Repeat the last command or action
+F5 - Go to a specific cell
+Alt+Enter - Start a new line in the same cell
+
+Page 4:
+Shortcut Key - Function
+Alt+= - Automatically SUM() the selected cells
+Shift+F3 - Open the Insert Function dialog box
+Ctrl+Shift+Enter - Enter a formula as an array formula
+Ctrl+; - Insert the current date
+Ctrl+Shift+; - Insert the current time
+Ctrl+Alt+F9 - Calculate all worksheets in all open workbooks
+Ctrl+Alt+Shift+F9 - Recheck dependent formulas
+Alt+F1 - Create an embedded chart
+Alt+F4 - Close Excel
+Ctrl+Tab - Switch between open Excel windows
+Alt+Shift+F1 - Insert a new worksheet
+Shift+F11 - Insert a new worksheet
+Alt+Enter - While typing text in a cell, move to the next line (multiple lines in one cell)
+Shift+F3 - Open the Excel formula window
+Shift+F5 - Bring up search box
+Ctrl+1 - Open the Format Cells window
+
+Page 5:
+Shortcut Key - Function
+Ctrl+Shift+~ - General format
+Ctrl+Shift+$ - Currency format
+Ctrl+Shift+% - Percentage format
+Ctrl+Shift+^ - Exponential format
+Ctrl+Shift+# - Date format
+Ctrl+Shift+@ - Time format
+Ctrl+Arrow Right/Left - Jump to the corner of the data region in a worksheet
+Ctrl+Shift+Page Up/Down - Select the current and previous/next sheet in a workbook
+Alt+Page Up/Down - Move one screen to the right/left in a worksheet
+Ctrl+Page Up/Down - Move to the previous/next sheet in a workbook
+Ctrl+Shift+Tab - Switch to the previous tab in dialog box
+Ctrl+Tab - Switch to the next tab in dialog box
+Alt+F8 - Open the Macro dialog box
+Alt+F11 - Open the Microsoft Visual Basic For Applications Editor
+Ctrl+F3 - Open the Name Manager
+Ctrl+Shift+F3 - Create names from selection
+Ctrl+/- - Insert or delete cells, rows, or columns
+Ctrl+' - Copy the formula from the cell above
+Ctrl+Shift+” - Copy value from cell above
+
+Page 6:
+Shortcut Key - Function
+Alt+Down Arrow - Display the AutoComplete list
+Alt+' - Format Style dialog box
+Ctrl+Shift+* - Select the current region around the active cell
+Alt+I+R - Insert row above active cell
+Alt+I+C - Insert column to the left of active cell
+Ctrl+"+" - Insert cells
+Ctrl+"-" - Delete cells
+Alt+E+D - Delete column
+Alt+E+L - Delete row
+Ctrl+D - Copy cell above
+Ctrl+R - Copy cell to the left
+Ctrl+H - Find and replace
+Ctrl+F - Find
+Ctrl+G - Go to a certain cell
+Alt+H+O+I - Auto adjust column width
+Alt+H+O+J - Auto adjust row height
+
+Page 7:
+Shortcut Key - Function
+Alt+H+H - Select a fill color
+Alt+H+B - Add border
+Ctrl+Shift+F - Open Format Cells dialog box with the Font tab selected
+Alt+H+FC - Change font color
+Alt+H+FS - Increase font size
+Alt+H+FP - Decrease font size
+Ctrl+Shift+> - Increase font size
+Ctrl+Shift+< - Decrease font size
+Ctrl+9 - Hide rows
+Ctrl+0 - Hide columns
+Ctrl+Shift+( - Unhide rows
+Ctrl+Shift+) - Unhide columns
+Alt+H+W - Wrap text
+Alt+H+MC - Merge cells
+Alt+H+MU - Unmerge cells
+Alt+H+AC - Align center
+Alt+H+AL - Align left
+Alt+H+AR - Align right
+
+Page 8:
+Shortcut Key - Function
+Alt+H+AT - Align top
+Alt+H+AM - Align middle
+Alt+H+AB - Align bottom
+Alt+H+FF - Select a font
+Alt+H+FB+I - Italic
+Alt+H+FB+U - Underline
+Alt+H+FB+B - Bold
+Alt+O+C+A - Auto size column width
+Alt+O+R+A - Auto size row height
+F7 - Spell check
+F11 - Create a chart from data in the selection
+Ctrl+F1 - Show or hide the ribbon
+Ctrl+F2 - Print preview view
+Alt+F9 - Display or hide named ranges
+Ctrl+Alt+V - Open Paste Special dialog
+Alt+E+S - Open Paste Special dialog
+Ctrl+Alt+5 - Apply or remove strikethrough formatting
+Ctrl+Alt+Minus Key(-) - Display the Delete dialog box to delete the selected cells
+
+Page 9:
+Shortcut Key - Function
+Ctrl+Shift+Plus Key(+) - Display the Insert dialog box to insert blank cells
+Ctrl+Space - Select the entire column
+Shift+Space - Select the entire row
+Ctrl+Shift+L - Apply or remove the filter
+Ctrl+Shift+U - Expand or collapse the formula bar
+F9 - Calculate all worksheets in all open workbooks
+Shift+F9 - Calculate active worksheet
+Alt+Equals(=) - AutoSum
+Ctrl+Alt+Shift+F9 - Recheck dependent formulas and calculate all cells in open workbooks
+Ctrl+Shift+O - Select all cells that contain comments

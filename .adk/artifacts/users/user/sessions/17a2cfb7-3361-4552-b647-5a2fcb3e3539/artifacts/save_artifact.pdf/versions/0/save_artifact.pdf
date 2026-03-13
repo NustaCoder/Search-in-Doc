@@ -1,0 +1,26 @@
+# Analysis Report: Agentic RAG Pipeline
+
+## Summary
+The provided text describes an **Agentic Retrieval-Augmented Generation (RAG)** pipeline. This system is designed as a hybrid query-routing architecture that dynamically chooses between internal document retrieval and external web searching to provide accurate answers.
+
+## Key Components
+*   **Vector Database:** FAISS (Facebook AI Similarity Search) is used to store and retrieve chunks of local PDF data.
+*   **LLM Provider:** Groq is utilized for high-speed Large Language Model responses.
+*   **External Search Framework:** crewAI manages the web workflow for gathering external context.
+*   **Decision Engine:** A router prompt serves as the logic layer to determine if local data is sufficient.
+
+## Workflow Process
+1.  **User Inquiry:** The process begins when a user submits a question.
+2.  **Routing Logic:** The system evaluates the question against the available PDF context.
+3.  **Decision Path:**
+    *   **"Yes" (Local context is sufficient):** The system performs a similarity search in the FAISS vector database and retrieves the relevant matches.
+    *   **"No" (Local context is insufficient):** The system triggers a web search and scraping workflow using crewAI.
+4.  **Synthesis:** The LLM synthesizes the gathered information (either from local files or the web) to produce a final, grounded response.
+
+## Technical Stack Highlights
+| Component | Technology |
+| :--- | :--- |
+| Indexing/Retrieval | FAISS (PDF chunks) |
+| LLM Inference | Groq |
+| Agentic Orchestration | crewAI |
+| Routing Logic | Binary Router Prompt (Yes/No) |
