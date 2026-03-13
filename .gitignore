@@ -36,5 +36,5 @@ temp/
 
 
 #adk folders
-.adk
-*.adk
+.adk/
+*.adk/
