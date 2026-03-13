@@ -1,5 +1,0 @@
-Agentic RAG pipeline is a query-routing system that answers with grounded context from local PDFs or, when needed, the live web. 
-
-It uses FAISS over PDF chunks, Groq for fast LLM responses, and a crewAI web workflow for external context. A router prompt determines “Yes/No” on whether local data is enough, and utilities handle retrieval, web scraping, and synthesis.
-
-Users ask a question, and the router checks the PDF context. If the answer is "Yes," the system retrieves the top matches from the vector database. If the answer is "No," it searches the web, combines the gathered information, and the language model formulates the final response. 
